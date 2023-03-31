@@ -1,7 +1,7 @@
 - 👋 Hey! Im Artem
 - 🐍 start with Python
 - 🤺 aiming in DS / ML
-- ❄️ from Sebiria
+- ❄️ from Siberia
 - 👨‍🎓 Master of Social += Psychology of Science
 - 🥊 more health
 
