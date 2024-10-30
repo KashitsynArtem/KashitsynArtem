@@ -1,10 +1,7 @@
 - 👋 Hey! Im Artem
 - 🐍 start with Python
-- 🤺 aiming in DS / ML
 - ❄️ from Siberia
 - 👨‍🎓 Master of Social += Psychology of Science
-- 🥊 more health
-
 
 <!---
 KashitsynArtem/KashitsynArtem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
